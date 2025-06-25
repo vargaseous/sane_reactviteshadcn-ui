@@ -1,4 +1,4 @@
-# Sanity Template
+# Sane Template
 
 ![Screenshot](screenshot.png)
 
@@ -12,6 +12,7 @@ an unopinionated starter kit for designers like me who want to create a modern R
 
 | Date       | Name         | Remarks                                 |
 |------------|--------------|-----------------------------------------|
+| 2025-06-26 | Jojo Vargas  | It has come to my attention that Sanity is a content management / delivery platform, so I renamed this project |
 | 2025-06-25 | Jojo Vargas  | Initial project setup and documentation |
 
 ## About

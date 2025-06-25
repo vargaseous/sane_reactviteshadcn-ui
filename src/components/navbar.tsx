@@ -1,6 +1,6 @@
 /*******************************************************************************
  * 
-  Sanity___________________________________________________github.com/vargaseous
+  Sane_____________________________________________________github.com/vargaseous
 
   navbar.tsx
   Navigation bar component. This is fixed on all pages.
@@ -30,7 +30,7 @@ export function Navbar() {
             to="/"
             className="md:text-lg lg:text-2xl font-semibold text-foreground"
           >
-            Sanity Template
+            Sane Template
           </Link>
         </div>
 

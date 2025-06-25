@@ -1,6 +1,6 @@
 /*******************************************************************************
  * 
-  Sanity___________________________________________________github.com/vargaseous
+  Sane_____________________________________________________github.com/vargaseous
 
   main.tsx
   The key entry point for the React website.

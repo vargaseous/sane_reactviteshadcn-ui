@@ -1,6 +1,6 @@
 /*******************************************************************************
  * 
-  Sanity___________________________________________________github.com/vargaseous
+  Sane_____________________________________________________github.com/vargaseous
 
   footer.tsx
   Footer bar component. This is fixed on all pages.

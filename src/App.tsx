@@ -1,6 +1,6 @@
 /*******************************************************************************
 
-  Sanity Template
+  Sane Template
 
   an unopinionated starter kit
   for designers like me who want to use React + Vite + Tailwind + shadcn-ui in dark mode

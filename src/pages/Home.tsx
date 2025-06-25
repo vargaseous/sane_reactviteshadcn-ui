@@ -1,6 +1,6 @@
 /*******************************************************************************
  * 
-  Sanity___________________________________________________github.com/vargaseous
+  Sane_____________________________________________________github.com/vargaseous
 
   Home.tsx
   Home page layout.
@@ -14,7 +14,7 @@ export default function Home() {
   return (
       <div className="flex flex-col items-left justify-center min-h-screen px-8 space-y-6 z-10">
         <h1 className="text-5xl lg:text-7xl font-bold font-sans mt-15 md:text-left">
-          Sanity Template
+          Sane Template
         </h1>
         <p className="text-2xl lg:text-3xl font-sans md:text-left sm:text-center max-w-250 mb-10">
           an unopinionated starter kit for designers like me who want to create
