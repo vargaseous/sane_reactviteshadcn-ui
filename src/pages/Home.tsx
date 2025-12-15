@@ -17,7 +17,7 @@ export default function Home() {
           Sane Template
         </h1>
         <p className="text-2xl lg:text-3xl font-sans md:text-left sm:text-center max-w-250 mb-10">
-          an unopinionated starter kit for designers like me who want to create
+          a minimalist starter kit for designers like me who want to create
           a modern React + Tailwind site but don't want to have to debug five
           fucking files just to figure out what the hell is colouring that
           button.

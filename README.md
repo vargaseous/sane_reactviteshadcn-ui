@@ -2,7 +2,7 @@
 
 ![Screenshot](screenshot.png)
 
-an unopinionated starter kit for designers like me who want to create a modern React + Tailwind site but don't want to have to debug five fucking files just to figure out what the hell is colouring that button.
+a minimalist starter kit for designers like me who want to create a modern React + Tailwind site but don't want to have to debug five fucking files just to figure out what the hell is colouring that button.
 
 - Minimalist architecture
 - Global styles handled in one place (`index.css`), with Tailwind used directly in components — no scattered theme files or cryptic utility wrappers
@@ -12,6 +12,7 @@ an unopinionated starter kit for designers like me who want to create a modern R
 
 | Date       | Name         | Remarks                                 |
 |------------|--------------|-----------------------------------------|
+| 2025-12-16 | Jojo Vargas  | Improved mobile menu and overall cleaner |
 | 2025-06-26 | Jojo Vargas  | It has come to my attention that Sanity is a content management / delivery platform, so I renamed this project |
 | 2025-06-25 | Jojo Vargas  | Initial project setup and documentation |
 

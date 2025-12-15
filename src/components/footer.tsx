@@ -9,8 +9,6 @@
 
 "use client";
 
-import { Link } from "react-router-dom";
-import { ModeToggle } from "@/components/mode-toggle"; // depends on your setup
 
 export function Footer() {
   return (
@@ -29,7 +27,8 @@ export function Footer() {
             rel="noopener noreferrer"
           >
             <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="http:/
+                /www.w3.org/2000/svg"
                 viewBox="0 0 494 73"
                 className="h-5 text-ring hover:text-primary fill-current transition duration-500 hover:drop-shadow-[0_0_12px_rgba(100,100,100,0.8)]"
             >
@@ -56,7 +55,7 @@ export function Footer() {
           <p>
             © 2025{" "}
             <a
-              href="https://github.com/vargaseous"
+              href="https://www.joshuavargas.io"
               target="_blank"
               rel="noopener noreferrer"
             >

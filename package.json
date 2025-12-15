@@ -1,7 +1,18 @@
 {
-  "name": "ync_digilib",
+  "name": "sane_reactviteshadcn-ui",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "An unopinionated starter kit for designers creating modern React + Tailwind sites.",
+  "author": "Joshua Vargas",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "vite",
+    "tailwindcss",
+    "shadcn-ui",
+    "template",
+    "starter"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
